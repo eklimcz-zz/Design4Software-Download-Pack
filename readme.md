@@ -14,6 +14,17 @@ Additionally, these samples and other can be seen live and downloaded from
 [designforsoftware.com] (www.design4software.com)
 
 
+How do I use them?
+-------
+
+Open them, pick them apart, steal what you need, leave what you don't. I spent many man hours hand crafting all of figures in the book. Nothing would make me happier than to see other people put them to good use.  If you do something great with them please send me and email at eklimcz@gmail.com so I can check it out.  
+
+
+Enjoy!
+Erik
+
+
+
 License
 -------
 
