@@ -5,7 +5,7 @@ The files included in this download pack are meant to compliment the Design for 
 This pack includes several different files: 
 * **Design Templates** - There are a handful of blank templates to print out and use for your own projects.
 * **Design Samples**  -  These files are sample executions of a particular topic. Some of the topics include: wireframes, color palettes, and design patterns. I've included both the original artwork illustrator files (.ai) and .pdf versions for reuse as needed. 
-* **Code Samples** - I've included a couple of proof of concepts demonstrating how to various creative coding tasks. Full source code is provided, and more can found on www.designforsoftware.com
+* **Code Samples** - I've included a couple of proof of concepts demonstrating how to various creative coding tasks. 
 
 Demos
 -------
